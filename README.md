@@ -1,15 +1,15 @@
-# ✊✋✌️ Rock Paper Scissor Game
+# ⚔️ Role Play JavaScript Game
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Interactive+Rock+Paper+Scissor+Game;Fun+JavaScript+Game+Project;HTML+%7C+CSS+%7C+JavaScript;Responsive+Frontend+Gaming+Experience" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=8A2BE2&center=true&vCenter=true&width=950&lines=Interactive+Role+Playing+JavaScript+Game;Adventure+Based+Frontend+Game;HTML+%7C+CSS+%7C+JavaScript;Fun+Gameplay+%26+Dynamic+UI" />
 
 <br>
 
-<img src="https://img.shields.io/github/stars/Mantechie/Rock-Paper-Scissor-Game?style=for-the-badge&color=8A2BE2" />
-<img src="https://img.shields.io/github/forks/Mantechie/Rock-Paper-Scissor-Game?style=for-the-badge&color=blue" />
-<img src="https://img.shields.io/github/repo-size/Mantechie/Rock-Paper-Scissor-Game?style=for-the-badge&color=orange" />
-<img src="https://img.shields.io/github/license/Mantechie/Rock-Paper-Scissor-Game?style=for-the-badge&color=green" />
+<img src="https://img.shields.io/github/stars/Mantechie/Role-Play-JS-Game?style=for-the-badge&color=8A2BE2" />
+<img src="https://img.shields.io/github/forks/Mantechie/Role-Play-JS-Game?style=for-the-badge&color=blue" />
+<img src="https://img.shields.io/github/repo-size/Mantechie/Role-Play-JS-Game?style=for-the-badge&color=orange" />
+<img src="https://img.shields.io/github/license/Mantechie/Role-Play-JS-Game?style=for-the-badge&color=green" />
 
 <br><br>
 
@@ -21,47 +21,47 @@
 
 # 🚀 About The Project
 
-Rock Paper Scissor Game is a fun and interactive frontend web application built using HTML, CSS, and JavaScript.
+Role Play JavaScript Game is an interactive browser-based adventure game built using HTML, CSS, and JavaScript.
 
-The project allows users to play the classic Rock-Paper-Scissor game against the computer with dynamic score tracking and responsive UI interactions.
+The game provides users with a fun role-playing experience where players make choices, battle enemies, manage health, and progress through gameplay scenarios.
 
 This project demonstrates:
 
 ✨ JavaScript Game Logic  
-✨ DOM Manipulation  
-✨ Interactive User Interface  
-✨ Responsive Web Design  
-✨ Event Handling Concepts  
-✨ Real-Time Score Updates  
+✨ Interactive Story-Based Gameplay  
+✨ DOM Manipulation Techniques  
+✨ Dynamic UI Rendering  
+✨ Event-Driven Programming  
+✨ Responsive Frontend Design  
 
 ---
 
 # 🌟 Key Features
 
-## 🎮 Gameplay Features
+## ⚔️ Gameplay Features
 
-- Play against the computer
-- Real-time winner detection
-- Dynamic score updates
-- Random computer choice generation
-- Interactive game controls
-- Instant result display
+- Interactive role-playing adventure
+- Enemy battle mechanics
+- Dynamic health & score system
+- Player decision handling
+- Multiple gameplay scenarios
+- Real-time game updates
+
+## 🎮 JavaScript Features
+
+- Event-driven gameplay logic
+- Dynamic content rendering
+- Game state management
+- Conditional battle system
+- Inventory & status handling
 
 ## 🎨 UI/UX Features
 
-- Responsive game layout
-- Modern button animations
-- Hover effects & transitions
-- User-friendly design
+- Responsive game interface
+- Interactive buttons & controls
+- Modern frontend styling
 - Smooth gameplay interactions
-
-## ⚡ JavaScript Functionality
-
-- DOM manipulation
-- Event listeners
-- Conditional game logic
-- Randomized gameplay mechanics
-- Dynamic content rendering
+- Beginner-friendly UI layout
 
 ---
 
@@ -83,24 +83,25 @@ This project demonstrates:
 
 # 🧠 Technical Highlights
 
-✅ Interactive Game Logic  
-✅ Real-Time DOM Updates  
+✅ Interactive JavaScript Game Logic  
+✅ Dynamic DOM Manipulation  
+✅ Event Handling System  
+✅ Real-Time Game State Updates  
 ✅ Responsive Frontend Design  
-✅ JavaScript Event Handling  
-✅ Dynamic Score Management  
-✅ Beginner-Friendly Project Structure  
-✅ Modern UI Styling  
+✅ User Interaction Management  
+✅ Adventure-Based Gameplay Structure  
 
 ---
 
 # 📂 Project Structure
 
 ```bash
-Rock-Paper-Scissor-Game/
+Role-Play-JS-Game/
 │
-├── rps.html
-├── rps.css
-├── rps.js
+├── index.html
+├── style.css
+├── script.js
+├── assets/
 └── README.md
 ```
 
@@ -111,13 +112,13 @@ Rock-Paper-Scissor-Game/
 ## 📥 Clone The Repository
 
 ```bash
-git clone https://github.com/Mantechie/Rock-Paper-Scissor-Game.git
+git clone https://github.com/Mantechie/Role-Play-JS-Game.git
 ```
 
 ## 📂 Navigate Into The Project
 
 ```bash
-cd Rock-Paper-Scissor-Game
+cd Role-Play-JS-Game
 ```
 
 ---
@@ -127,22 +128,22 @@ cd Rock-Paper-Scissor-Game
 Open the HTML file in your browser.
 
 ```bash
-rps.html
+index.html
 ```
 
 Or use VS Code Live Server for better development experience.
 
 ---
 
-# 🎮 Game Rules
+# 🎮 Gameplay Mechanics
 
-| Player Choice | Computer Choice | Result |
-|---|---|---|
-| Rock | Scissor | Player Wins |
-| Paper | Rock | Player Wins |
-| Scissor | Paper | Player Wins |
-
-If both choices are the same, the match ends in a draw.
+| Feature | Description |
+|---|---|
+| Player Actions | Attack, Heal, Explore |
+| Enemy Battles | Interactive combat system |
+| Health System | Dynamic HP updates |
+| Decision Logic | Scenario-based gameplay |
+| Score Tracking | Real-time progression |
 
 ---
 
@@ -150,12 +151,12 @@ If both choices are the same, the match ends in a draw.
 
 ## ✅ Testing Coverage
 
-- Game logic validation
-- Score update testing
+- Gameplay logic testing
+- Battle system validation
 - UI responsiveness testing
-- Button interaction testing
+- DOM interaction testing
+- Button functionality checks
 - Cross-browser compatibility testing
-- Result display verification
 
 ---
 
@@ -163,24 +164,26 @@ If both choices are the same, the match ends in a draw.
 
 Through this project, I improved my understanding of:
 
-- ⚡ JavaScript Fundamentals
-- 🎮 Game Development Logic
+- ⚡ Advanced JavaScript Concepts
+- 🎮 Browser-Based Game Development
 - 🧩 DOM Manipulation
-- 📱 Responsive UI Design
-- 🖱️ Event Handling
-- 🎨 Frontend Styling Techniques
+- 🖱️ Event Handling Techniques
+- 📱 Responsive Frontend Design
+- 🎨 Interactive UI Development
+- 🧠 Game State Management
 
 ---
 
 # 🔮 Future Improvements
 
-- 🤖 AI Difficulty Levels
-- 🎵 Sound Effects Integration
+- 🧙 Multiple Character Classes
+- ⚔️ Advanced Enemy AI
+- 🎵 Sound Effects & Background Music
 - 🌙 Dark Mode Support
-- 🏆 Leaderboard System
-- 📱 Enhanced Mobile Experience
-- 🌐 Multiplayer Mode
-- 🎨 Improved Animations
+- 🏆 Achievement System
+- 💾 Save & Load Game Progress
+- 🌐 Multiplayer Features
+- 📱 Enhanced Mobile Optimization
 
 ---
 
@@ -224,8 +227,8 @@ Contributions are always welcome.
 
 💻 Frontend Developer  
 🎮 JavaScript Game Developer  
-🚀 Passionate About Interactive Web Experiences  
-⚡ Building Fun & Creative Frontend Projects
+⚡ Passionate About Interactive Web Experiences  
+🚀 Building Creative Browser Games & UI Projects
 
 </div>
 
@@ -237,6 +240,6 @@ If you found this project useful, consider giving it a ⭐ on GitHub.
 
 <div align="center">
 
-## 🎮 Play • Learn • Build
+## ⚔️ Play • Explore • Conquer
 
 </div>
